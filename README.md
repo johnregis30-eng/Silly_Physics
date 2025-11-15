@@ -28,9 +28,7 @@ Just a bunch of things I’ve built or studied out of curiosity:
 - **AFM/STM Internship Report**  
   My experience on imaging tiny landscapes made of carbon and molybdenum.
 
-### • Neuromorphic Ideas  
-- Notes and concepts exploring memristors, artificial neurons,  
-  and how “forgetting” can be a feature, not a bug.
+
 
 ---
 
